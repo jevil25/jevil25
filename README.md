@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jevil25
+- 👋 Hi, I’m Aaron Jevil Nazareth
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on hackathons
