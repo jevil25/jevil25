@@ -11,7 +11,6 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jevil&show_icons=true&theme=bear" " width = 400>
-  &nbsp;&nbsp;&nbsp;<img src = "https://github-readme-streak-stats.herokuapp.com?user=jevil25&theme=dark&hide_border=true" width = 400>
 </p>
                                                                                                                           
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevil25&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)                                                                                                                          
