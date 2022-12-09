@@ -7,7 +7,7 @@
 
 ### Hey there 👋!
 
-  [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevil25)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevil25&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
   
   
   
