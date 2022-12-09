@@ -10,10 +10,11 @@
 <hr>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jevil&show_icons=true&theme=bear" " width = 400>
+  [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=jevil25)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-                                                                                                                          
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevil25&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)                                                                                                                          
+ <p align = "center">                                                                                                                         
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jevil25&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
+ </p>
 
 <!---
 jevil25/jevil25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
