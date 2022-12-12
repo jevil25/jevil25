@@ -9,9 +9,6 @@
 
 <div style="display:grid; grid-template-columns: 1fr 1fr;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=jevil25&theme=react&hide_border=true">
-  </div>
-  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=jevil25&theme=blueberry_duo&hide_border=true">
   </div>
 </div>
