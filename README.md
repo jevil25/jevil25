@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aaron Jevil Nazareth<br>👀 I’m interested in coding<br>🌱 I’m currently learning computer science engineering<br>💞️ I’m looking forward work on different projects<br>📫 How to reach me email me on jevil257@gmail.com
+👋 Hi, I’m Aaron Jevil Nazareth<br>👀 I’m interested in coding<br>🌱 I’m currently learning computer science engineering<br>💞️ I’m looking forward to work on different projects<br>📫 How to reach me email me on jevil257@gmail.com
 
 
 ## 🌐 Socials:
